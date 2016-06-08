@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:22.237383
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:24
 #+TITLE: 宿曜儀軌
 #+PROPERTY: CBETA_ID T21n1304
 #+PROPERTY: ID KR6j0535
