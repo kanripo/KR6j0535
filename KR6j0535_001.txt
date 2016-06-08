@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:22.237383
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:24
 #+TITLE: 宿曜儀軌
 #+PROPERTY: CBETA_ID T21n1304
 #+PROPERTY: ID KR6j0535
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1304
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0535_T_000-0422b>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0535_T_001-0422b> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1304¶
-
- 宿曜儀軌一卷¶
+No. 1304¶
+宿曜儀軌一卷¶
 ¶
 一行撰¶
 
@@ -115,7 +114,7 @@ No.1304¶
 
 羅睺星真言曰。¶
 
-唵羅戶曩阿素羅(二合)邏惹野塞摩捨都曩¶
+唵羅戶曩阿素羅二合(二合)邏惹野塞摩捨都曩¶
 野(名位)扇底迦里娑嚩賀¶
 
 計都星真言曰。¶
